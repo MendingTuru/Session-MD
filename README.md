@@ -5,7 +5,7 @@
 
 <div align="alight">
 
-<h1 = "Koko Pangeran" width="300"/h1>
+<p = "Koko Pangeran" width="300"/p>
 
 ## AMBIL INSTAN
 - Klik tombol replit di bawah ini untuk instan tanpa coding  
