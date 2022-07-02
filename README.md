@@ -1,9 +1,10 @@
 <div align="alight">
-<img src="https://telegra.ph/file/19968eb11731f27620ffe.jpg" alt="Koko Pangeran" width="300" />
+![Banner](elaina.jpg) <br />
+<alt="Koko Pangeran" width="300" />
 
 ## AMBIL INSTAN
 - Klik tombol replit di bawah ini untuk instan tanpa coding  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MendingTuru/Session-Md-1#.replit)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kokopangeran/Session-Md-1#.replit)
 
   
 ## MANUAL INSTALL
@@ -47,8 +48,8 @@ qr()
 
 # Session-Md
 Session untuk bot Md 
-[Simple Run repl](https://replit.com/@MendingTuru/Session-Md-1?lite=1&outputonly=1#.replit)
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MendingTuru/Session-Md-1?lite=1&outputonly=1#.replit)
+[Simple Run repl](https://replit.com/@kokopangeran/Session-Md-1?lite=1&outputonly=1#.replit)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kokopangeran/Session-Md-1?lite=1&outputonly=1#.replit)
   
 
 ## INSTALL ON Replit
