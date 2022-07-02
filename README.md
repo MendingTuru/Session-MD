@@ -5,8 +5,6 @@
 
 <div align="alight">
 
-<p = "Koko Pangeran" width="300"/p>
-
 ## AMBIL INSTAN
 - Klik tombol replit di bawah ini untuk instan tanpa coding  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kokopangeran/Session-Md-1#.replit)
