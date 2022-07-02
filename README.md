@@ -12,7 +12,7 @@ Cara ambil session nya,-
 - Tampilan session ada di file seperti di gambar ini
 - Hanya bisa run di replit tidak bisa di terminal lain
 - Salin session tepat di file auth_info_multi.json / jika mau file langsung ke session.data.json ganti terlebih dahulu file index
-- file index mentahan [[KLIK MENTAHAN INDEX INI]](https://github.com/MendingTuru/Session-Md/blob/main/index.js.bak) salin dan ganti file index asli.
+- file index mentahan [[KLIK MENTAHAN INDEX INI]](https://github.com/MendingTuru/Session-MD/blob/main/index.js.bak) salin dan ganti file index asli.
 ```  
 const makeWASocket = require("@adiwajshing/baileys").default
 const qrcode = require("qrcode-terminal")
@@ -55,8 +55,8 @@ Session untuk bot Md
 [ INSTALLING ]
 
 ```bash
-git clone https://github.com/BOTCAHX/Session-Md.git
-cd Session-Md
+git clone https://github.com/MendingTuru/Session-MD.git
+cd Session-MD
 npm i
 node index
 ```
