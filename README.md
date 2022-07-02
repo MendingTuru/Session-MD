@@ -1,5 +1,10 @@
-<div align="alight">
+## 👋 Hello, I'm ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ
+
 ![Banner](elaina.jpg) <br />
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/kokopangeran_)
+
+<div align="alight">
+
 <alt="Koko Pangeran" width="300" />
 
 ## AMBIL INSTAN
