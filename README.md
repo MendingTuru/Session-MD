@@ -3,7 +3,7 @@
 
 ## AMBIL INSTAN
 - Klik tombol replit di bawah ini untuk instan tanpa coding  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/Session-Md-5#.replit)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MendingTuru/Session-Md-5#.replit)
 
   
 ## MANUAL INSTALL
